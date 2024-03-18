@@ -4,7 +4,7 @@ import Experience from "./Experience"
 
 export default class Camera {
     constructor() {
-
+        
         // // Access Experience.js via Global Var
         // this.experience = window.experience
         // console.log(this.experience.sizes.width)
